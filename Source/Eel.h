@@ -1,6 +1,6 @@
 #pragma once
 
-#pragma comment(lib, "Advapi32.lib")
+//#pragma comment(lib, "Advapi32.lib")
 
 //Includes
 #include <Windows.h>
