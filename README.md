@@ -1,2 +1,3 @@
-# Email-Worm.Win32.Eel
-A small email worm I made. For entertainment purposes only!
+# 🤔 What is Eel?
+It is a small email worm I made. For entertainment purposes only!
+
